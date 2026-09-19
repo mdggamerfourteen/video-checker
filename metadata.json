@@ -1,0 +1,7 @@
+{
+  "name": "Video Checker & DaVinci Resolve Report",
+  "description": "Analyze videos up to 20GB for TikTok, YouTube, Facebook, and Rumble, generate platform-specific recommendations, and export DaVinci Resolve timeline markers and edit reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
